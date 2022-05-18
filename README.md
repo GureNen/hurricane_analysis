@@ -1,2 +1,3 @@
-# hurricane_analysis
- First repository
+# Hurricane Analysis
+
+Analysing data about hurricanes using Python dictionaries
